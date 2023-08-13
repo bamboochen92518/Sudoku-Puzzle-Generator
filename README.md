@@ -51,7 +51,7 @@ Resume the puzzle before specific steps. (default = 1)
 Save current sudoku puzzle.
 If the filename is not given, the defalut filename is 'yy-MM-dd_hh:mm:ss_puzzle'. 
 
-**Note that row should be 'a' to 'i' and column should be '1' to '9'. **
+**Note that row should be `a` to `i` and column should be `1` to `9`. **
 
 #### About solving puzzle
 `load {filename}`
