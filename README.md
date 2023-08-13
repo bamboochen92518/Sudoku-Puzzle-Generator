@@ -63,7 +63,7 @@ Resume the puzzle before specific steps. (default = 1)
 `save {filename}`
 
 Save current sudoku puzzle.
-If the filename is not given, the defalut filename is 'yy-MM-dd_hh:mm:ss_puzzle'. 
+If the filename is not given, the defalut filename is `yy-MM-dd_hh:mm:ss_puzzle`. 
 
 
 ### About solving puzzle
